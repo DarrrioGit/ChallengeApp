@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.4.33213.308
+VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChellengeApp", "ChellengeApp\ChellengeApp.csproj", "{F63D1398-EB37-48D9-B90B-05F46C4CABAB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChellengeApp", "ChellengeApp\ChellengeApp.csproj", "{1A23955E-AAC2-4ED8-A299-08760A6CB86C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F63D1398-EB37-48D9-B90B-05F46C4CABAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F63D1398-EB37-48D9-B90B-05F46C4CABAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F63D1398-EB37-48D9-B90B-05F46C4CABAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F63D1398-EB37-48D9-B90B-05F46C4CABAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A23955E-AAC2-4ED8-A299-08760A6CB86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A23955E-AAC2-4ED8-A299-08760A6CB86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A23955E-AAC2-4ED8-A299-08760A6CB86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A23955E-AAC2-4ED8-A299-08760A6CB86C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1E21F0D2-0F48-459F-B6F9-23A8D46E0A70}
+		SolutionGuid = {414EA3CA-7AB4-4BB9-9A1C-4073BAC6BDB9}
 	EndGlobalSection
 EndGlobal
